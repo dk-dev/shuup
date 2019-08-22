@@ -8,6 +8,9 @@
 .. image:: https://snyk.io/test/github/shuup/shuup/badge.svg
    :alt: Known Vulnerabilities
    :target: https://snyk.io/test/github/shuup/shuup
+.. image:: https://storage.googleapis.com/cloudrun/button.svg
+   :alt: Run on Google Cloud
+   :target: https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/shuup/shuup.git
 
 Shuup
 =====
